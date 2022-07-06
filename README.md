@@ -1,2 +1,2 @@
-#Peters Project
-You are Peters Project Master
+#GIT Readme 
+This is the Project Master ReadME file
