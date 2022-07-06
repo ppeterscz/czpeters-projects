@@ -5,3 +5,4 @@ I have added line 3 on ISS02 Branch
 =======
 Testing branching in GIT
 >>>>>>> sirpeters
+Making a change from newmaster branch
